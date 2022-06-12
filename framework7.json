@@ -1,0 +1,19 @@
+{
+  "cwd": "F:\\Web Projects\\Test",
+  "type": [
+    "web"
+  ],
+  "name": "My App",
+  "framework": "svelte",
+  "template": "single-view",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
